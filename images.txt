@@ -2,4 +2,4 @@ nginx:1.24.0
 mysql:8.0.35
 redis
 docker.io/jc21/nginx-proxy-manager:latest
-nacos/nacos-server:1.4.6
+nacos/nacos-server:1.4.7
