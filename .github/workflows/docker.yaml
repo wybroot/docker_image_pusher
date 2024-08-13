@@ -5,8 +5,8 @@ on:
   push:
     branches: [ main ]
  #定时执行更新
- # schedule:
-  #  - cron: '00 23 * * *'
+  schedule:
+    - cron: '00 23 * * *'
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
