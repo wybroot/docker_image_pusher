@@ -4,5 +4,5 @@ mysql:8.0.35
 redis
 docker.io/jc21/nginx-proxy-manager:latest
 nacos/nacos-server:v1.4.7
-mimio/minio:latest
+bitnami/minio
 nginx:1.27.0
