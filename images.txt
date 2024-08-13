@@ -1,7 +1,7 @@
 nginx:1.25.1
 nginx:1.24.0
 mysql:8.0.35
-redis
+bitnami/redis:7.4.0
 docker.io/jc21/nginx-proxy-manager:latest
 nacos/nacos-server:v1.4.7
 bitnami/minio
