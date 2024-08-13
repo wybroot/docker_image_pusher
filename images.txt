@@ -5,3 +5,4 @@ redis
 docker.io/jc21/nginx-proxy-manager:latest
 nacos/nacos-server:v1.4.7
 minio:latest
+nginx:1.27.0
