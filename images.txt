@@ -6,3 +6,4 @@ docker.io/jc21/nginx-proxy-manager:latest
 nacos/nacos-server:v1.4.7
 bitnami/minio
 nginx:1.27.0
+node:18.16.0
