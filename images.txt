@@ -7,4 +7,4 @@ nacos/nacos-server:v1.4.7
 bitnami/minio
 nginx:1.27.0
 node:18.16.0
-kubectl:v1.27.16
+docker.io/kubesphere/kubectl:v1.27.16
