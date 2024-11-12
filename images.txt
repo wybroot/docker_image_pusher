@@ -8,3 +8,4 @@ bitnami/minio
 nginx:1.27.0
 node:18.16.0
 docker.io/kubesphere/kubectl:v1.27.16
+node:12.22.10"
